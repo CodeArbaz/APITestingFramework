@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3385" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:10:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3385" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:10:00Z">
+      <class name="com.w2a.API_RestAssuredFramework.testcases.SampleTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="setUp" is-config="true" duration-ms="633" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ValidateCreateCusyomerAPIWithInvalidKey()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="ValidateCreateCusyomerAPIWithInvalidKey" duration-ms="2742" started-at="2019-12-15T02:09:56Z" finished-at="2019-12-15T02:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateCusyomerAPIWithInvalidKey -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-15T02:09:59Z" finished-at="2019-12-15T02:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="ValidateCreateCusyomerAPIWithValidKey()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="ValidateCreateCusyomerAPIWithValidKey" duration-ms="614" started-at="2019-12-15T02:09:59Z" finished-at="2019-12-15T02:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateCusyomerAPIWithValidKey -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-15T02:09:59Z" finished-at="2019-12-15T02:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-12-15T02:10:00Z" finished-at="2019-12-15T02:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-12-15T02:10:00Z" finished-at="2019-12-15T02:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-12-15T02:10:00Z" finished-at="2019-12-15T02:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.API_RestAssuredFramework.testcases.SampleTestCase@464bee09]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-12-15T02:10:00Z" finished-at="2019-12-15T02:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.API_RestAssuredFramework.testcases.SampleTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
