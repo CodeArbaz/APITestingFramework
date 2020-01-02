@@ -25,7 +25,7 @@ public class DeleteCustomerTest extends BaseTest{
 	public void deleteCustomer(Hashtable<String,String> data)
 	{
 		
-		
+		//Inside delete customer test
 		Response response= DeleteCustomerAPI.sendDeleteRequestToDeleteCustomerAPIWithValidID(data);
 		
 		response.prettyPrint();
